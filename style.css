@@ -1,0 +1,41 @@
+#logo {
+    text-align: center;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+#title {
+    font-size: 48px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+#nav {
+    text-align: center;
+    height: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#background {
+    height: 100%;
+    width: 100%;
+    color: rgb(62, 62, 62);
+}
+
+#link {
+    text-align: center;
+    height: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
